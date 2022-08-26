@@ -24,4 +24,8 @@ $member = ++$number;
 $number = $number + 1;
 $member =$number;
 */
+$n = 12;
+$o = 014;
+printf("The Number is %s and %s, $n,$o");
+
 
