@@ -9,6 +9,7 @@
 7.Object
 8.Resource
 */
+// var_dump is a Function
 
     $name= "Earth";
     var_dump($name);
@@ -21,4 +22,9 @@
     var_dump($name1,$name2);
     $result = true;
     var_dump ($result);
+ $fname = "Hasibul";
+ $lname = "Islam";
+    printf ( "My %s Name is %s %s","Full",$fname,$lname);
+// Printf is very important! ( php.net/printf )> This is Study site for php printf.
+
 
