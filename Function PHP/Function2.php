@@ -13,3 +13,7 @@ if (isEven($x)){//argument
 } else {
     echo"{$x} is an odd number";
 }
+
+$x = "5";
+
+echo "Factorial of {$x} is ".factorial($x);
