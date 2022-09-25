@@ -12,10 +12,15 @@ $students =[
     "kalam",
 ];// JS Type array ,
 
+$students [] = "jamal";
+array_push ($students, "korim");
+array_unshift ($students, "salam");
+
+
 // array loop:
 
 $n = count ( $students);
-for ( $i = 0; $i < $n; $i++){
-    echo $students[$i] . "\n";
-}
+ for ( $i = 0; $i < $n; $i++){
+     echo $students[$i] . "\n";
+ }
 
