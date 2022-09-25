@@ -12,3 +12,13 @@ array_push(), -add an element from its end,
 
 
 function[ arguments ],- Js type Array.
+
+!............................................!
+
+associative array loop system:-
+
+foreach( function as $key=>$value){
+    echo $key. "=".$value. "\n";
+}
+
+!.....................................!
