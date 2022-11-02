@@ -24,7 +24,7 @@
         </div>
         <div class= "row">
             <div class="column column-60 column-offset-20">
-                <from action="" >
+                <from action="GET">
                     <label for= "fname">Frist Name</label>
                     <input type="text" name="fname" id="fname">
 
