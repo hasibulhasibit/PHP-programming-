@@ -1,5 +1,5 @@
 <?php
-$n = "12";
+// $n = "12";
 // $students = array (
 //     "rahim",
 //     "abul",
@@ -24,12 +24,15 @@ $n = "12";
 //      echo $students[$i] . "\n";
 //  }
 
-$vegetables = explode (', ','brinjal, brocoli, carrot, capsicum');// delimeter ,
-var_dump ($vegetables);
+// $vegetables = explode (', ','brinjal, brocoli, carrot, capsicum');// delimeter ,
+// var_dump ($vegetables);
 
-$vegetablesString = join ( ', ',$vegetables);
-echo $vegetablesString;
+// $vegetablesString = join ( ', ',$vegetables);
+// echo $vegetablesString;
 
-echo count ($vegetables);
+// echo count ($vegetables);
+
+//!........copy array.......!//
+
 
 
